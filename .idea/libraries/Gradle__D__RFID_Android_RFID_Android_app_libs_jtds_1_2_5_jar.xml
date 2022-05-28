@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D./RFID.Android/RFID.Android/app/libs/jtds-1.2.5.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jtds-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
